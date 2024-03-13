@@ -1,4 +1,7 @@
-*.bundle.*
+#Custom project files
+tmp.csv
+
+n*.bundle.*
 lib/
 node_modules/
 *.egg-info/
